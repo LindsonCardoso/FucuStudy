@@ -3,4 +3,4 @@
 <p>
   <a align="center">Em desenvolvimento...</a>
 </p>
-![]("http://i.gifer.com/OyRT.gif")
+![]("https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif")
