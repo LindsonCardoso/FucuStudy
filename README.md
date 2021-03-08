@@ -4,5 +4,4 @@
   <a align="center">Em desenvolvimento...</a>
 </p>
 
-
 ![]("https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif")
