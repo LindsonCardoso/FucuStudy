@@ -3,4 +3,4 @@
 <p>
   <a align="center">Em desenvolvimento...</a>
 </p>
-![](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
+![](https://github.com/LindonCardoso/FocuStudy/blob/main/wer.gif?raw=true)
