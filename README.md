@@ -3,4 +3,4 @@
 <p>
   <a align="center">Em desenvolvimento...</a>
 </p>
-![Alt dev](https://gifer.com/embed/OyRT)
+![Alt](https://gifer.com/embed/OyRT)
