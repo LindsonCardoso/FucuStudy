@@ -3,4 +3,4 @@
 <p>
   <a align="center">Em desenvolvimento...</a>
 </p>
-<img src="https://i.gifer.com/OyRT.gif" />
+<img src="https://i.gifer.com/OyRT.gif"/>
